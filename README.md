@@ -17,12 +17,7 @@ Additionally, create another folder named new_text_file in the root directory. I
 
 Example structure:
 
-   your_project/
-   ├── initial_data_set/
-   │   ├── file1.txt
-   │   └── file2.txt
-   ├── new_text_file/
-   │   └── new_file.txt
+![Uploading Снимок.PNG…]()
 
 
 2. Install Required Libraries
