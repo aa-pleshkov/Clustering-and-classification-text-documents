@@ -64,6 +64,3 @@ def save_results_of_pre_processed_text_files_in_data_foulder(processed_text):
             full_pre_processed_text_file = ' '.join(elem[i] for i in range(len(elem)))
             f.write(f'{processed_text.index(elem) + 1} pre processed file: ' + full_pre_processed_text_file)
             f.write('\n')
-
-# см. папку на рабочем столе - Что я знаю о Пет проектах - там в файле 'Функция для сохранения обработанных текстовых файлов' - 
-# улучшенный вариант функции
