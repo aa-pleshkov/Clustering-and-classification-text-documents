@@ -17,7 +17,7 @@ Additionally, create another folder named new_text_file in the root directory. I
 
 Example structure:
 
-![Uploading Снимок.PNG…]()
+https://docs.google.com/document/d/1Y1KP121HqgxB5VfyFC3sKI4gMnkhvV5c7EN_GygBxcQ/edit?hl=ru&tab=t.0
 
 
 2. Install Required Libraries
