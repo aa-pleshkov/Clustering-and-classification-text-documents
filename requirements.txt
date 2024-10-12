@@ -1,0 +1,7 @@
+pandas
+nltk
+spacy
+sentence_transformers
+numpy
+matplotlib
+sklearn
