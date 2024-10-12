@@ -11,9 +11,9 @@ Ensure you have Python installed on your system. It's recommended to use Python 
 
 1. Prepare the Initial Data Files
 
-First, create a folder named initial_data_set in the root directory of your project. Inside this folder, place all your text files that you wish to use as the initial data set.
+First, create a folder named - initial_data_set (in the root directory of your project). Inside this folder, place all your text files that you wish to use as the initial data set.
 
-Additionally, create another folder named new_text_file in the root directory. Inside this folder, add one text file with any name that will be used to find the nearest cluster later.
+Additionally, create another folder - named new_text_file (in the root directory). Inside this folder, add one text file with any name that will be used to find the nearest cluster later.
 
 Example structure:
 
